@@ -1,0 +1,6 @@
+<map id="souffle::ast::DeltaInputSips" name="souffle::ast::DeltaInputSips">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_sips_metric.html" title="Class for SIPS cost&#45;metric functions Each subclass represents a different heuristic used for evaluati..." alt="" coords="78,447,247,568"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1analysis_1_1_i_o_type_analysis.html" title="{souffle::ast::analysis\l::IOTypeAnalysis\n||+ getLimitSize()\l+ IOTypeAnalysis()\l+ isInput()\l+ isIO()\l+ isLimitSize()\l+ isOutput()\l+ isPrintSize()\l+ print()\l+ run()\l}" alt="" coords="702,403,858,612"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1analysis_1_1_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="525,145,681,296"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1analysis_1_1_relation_detail_cache_analysis.html" title="Analysis pass mapping identifiers with relations and clauses. " alt="" coords="272,425,507,590"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="souffle::ast::DeltaSips::evaluateCosts" name="souffle::ast::DeltaSips::evaluateCosts">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1ast.html#a4d241d452506093a120b012e3789fb0c" title="Returns whether the given atom is a delta relation. " alt="" coords="217,71,419,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_binding_store.html#a8a84cac2f0593a4739c56dcc75a1f99c" title="Counts the number of bound arguments in the given atom. " alt="" coords="225,173,411,215"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_qualified_name.html#a3f497c99ea877f1bb52422ce8ccb2761" title="get qualifiers " alt="" coords="467,5,665,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ab9fd86fe230c58e924db2cf47e1ba5e0" title="Determine if one string is a prefix of another. " alt="" coords="505,71,627,98"/>
+<area shape="rect" id="node6" href="$namespacesouffle_1_1test.html#a10453085bc4f71f32dcda443d4b3c446" title="souffle::test::count" alt="" coords="495,122,637,149"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="497,173,635,215"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_binding_store.html#ac7d39b94794fce0a63e1d0ebb7bd455a" title="Check if a variable is bound. " alt="" coords="473,239,659,280"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="713,181,860,207"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="722,246,851,273"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="souffle::AstToRamTranslator::ClauseTranslator" name="souffle::AstToRamTranslator::ClauseTranslator">
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_to_ram_translator.html" title="Main class for AST Translator. " alt="" coords="1259,1608,1524,1876"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_program.html" title="The program class consists of relations, clauses and types. " alt="" coords="1062,844,1294,1171"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1ast_1_1analysis_1_1_auxiliary_arity_analysis.html" title="Determine the auxiliary arity for relations. " alt="" coords="1527,1336,1717,1487"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_node.html" title="Abstract class for syntactic elements in an input program. " alt="" coords="1283,543,1425,781"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="1622,359,1771,480"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="1622,160,1771,281"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1ast_1_1analysis_1_1_i_o_type_analysis.html" title="{souffle::ast::analysis\l::IOTypeAnalysis\n||+ getLimitSize()\l+ IOTypeAnalysis()\l+ isInput()\l+ isIO()\l+ isLimitSize()\l+ isOutput()\l+ isPrintSize()\l+ print()\l+ run()\l}" alt="" coords="1741,1307,1897,1516"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1ast_1_1analysis_1_1_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="1573,932,1729,1083"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1ast_1_1analysis_1_1_type_environment.html" title="A type environment is a set of types. " alt="" coords="397,1277,615,1545"/>
+<area shape="rect" id="node27" href="$structsouffle_1_1ast_1_1analysis_1_1_type_set.html" title="A collection to represent sets of types. " alt="" coords="196,881,352,1134"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="722,1285,890,1538"/>
+<area shape="rect" id="node34" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="695,947,799,1068"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ast_to_ram_translator_1_1_value_index.html" title="A class indexing the location of variables and record references within a loop nest resulting from th..." alt="" coords="2330,1608,2533,1876"/>
+</map>
